@@ -1,0 +1,7 @@
+pandas
+boto3
+numpy
+fastparquet
+list_imports
+scipy
+requests
